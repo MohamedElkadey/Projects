@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="numberText">@color/white</color>
+    <color name="button_background">#786F6D6D</color>
+    <color name="primary_text">#673AB7</color>
+    <color name="primary_button">#020C28</color>
+    <color name="primary_background">@color/black</color>
+    <color name="all_clear_text">#F4440B</color>
+    <color name="action_text">#008CFF</color>
+    <color name="equal_background">#D16135</color>
+    <color name="equal_button_text">#F8F5F5</color>
+</resources>
